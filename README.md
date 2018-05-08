@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine learning codes implemented using some on my own and some using scikit learn and tensorflow.
+Machine learning algorithms in python implemented using some on my own code and libraries of scikit learn and tensorflow.
